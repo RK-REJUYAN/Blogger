@@ -18,5 +18,5 @@ var first = `${`<div class="first-container">
 \
 </div>
 \
-<div class="sapnaitgk">Powered by <a href="https://www.sapnaitgk.com/2022/11/download-timer-script-for-blogger-with.html">SapnaITGK</a></div></div>`}`;
+<div class="rk-rejuyan">Powered by <a href="https://rkhackir20.blogspot.com/2024/03/countdown-timer-button-double-your.html">RK REJUYAN</a></div></div>`}`;
 document.write(first)

@@ -1,1 +1,93 @@
-(function(_0x55641b,_0x14e2a7){var _0x10fc17=_0x3e32,_0x3ed59c=_0x55641b();while(!![]){try{var _0x34961b=-parseInt(_0x10fc17(0x136))/0x1*(parseInt(_0x10fc17(0x127))/0x2)+-parseInt(_0x10fc17(0x108))/0x3*(-parseInt(_0x10fc17(0x13b))/0x4)+parseInt(_0x10fc17(0x119))/0x5*(parseInt(_0x10fc17(0x10d))/0x6)+-parseInt(_0x10fc17(0x12d))/0x7*(parseInt(_0x10fc17(0x10b))/0x8)+parseInt(_0x10fc17(0x11a))/0x9+parseInt(_0x10fc17(0x130))/0xa*(-parseInt(_0x10fc17(0x13c))/0xb)+parseInt(_0x10fc17(0x128))/0xc*(parseInt(_0x10fc17(0x12c))/0xd);if(_0x34961b===_0x14e2a7)break;else _0x3ed59c['push'](_0x3ed59c['shift']());}catch(_0x58971e){_0x3ed59c['push'](_0x3ed59c['shift']());}}}(_0x5463,0x4a38c));function hi(){var _0xa11e2b=_0x3e32;console[_0xa11e2b(0x115)](_0xa11e2b(0x12f));}hi();var _0x1e70d0=_0xd750;(function(_0x5a8ffb,_0x5d894f){var _0x2d5227=_0x3e32,_0x2d15b8=_0xd750,_0x3972d4=_0x5a8ffb();while(!![]){try{var _0x52ac3e=-parseInt(_0x2d15b8(0x11c))/0x1+-parseInt(_0x2d15b8(0x12b))/0x2+-parseInt(_0x2d15b8(0x10b))/0x3*(parseInt(_0x2d15b8(0x10d))/0x4)+parseInt(_0x2d15b8(0x11d))/0x5+-parseInt(_0x2d15b8(0x105))/0x6*(-parseInt(_0x2d15b8(0x103))/0x7)+-parseInt(_0x2d15b8(0x10c))/0x8*(parseInt(_0x2d15b8(0x109))/0x9)+parseInt(_0x2d15b8(0x107))/0xa;if(_0x52ac3e===_0x5d894f)break;else _0x3972d4['push'](_0x3972d4[_0x2d5227(0x11f)]());}catch(_0x5d9be9){_0x3972d4[_0x2d5227(0x107)](_0x3972d4[_0x2d5227(0x11f)]());}}}(_0x2aba,0x6c888));function hi(){var _0x1036c9=_0xd750;console[_0x1036c9(0x115)](_0x1036c9(0x11b));}hi();var second=''+_0x1e70d0(0x111);document[_0x1e70d0(0x128)](second);var waiting=waitleft*0x3e8,time=timeleft*0x3e8;function _0x5463(){var _0x1f513c=['searchParams','svg.radial-progress','116BrbNql','11vLRasy','<button\x20onclick=\x22gotolink()\x22\x20class=\x27getlink\x27>GET\x20LINK</button>','height','attr','#gotolinkbtn','1716093qASAfm','2626710QHOjUt','push','42519hZfpVz','style','toFixed','8lJoDrW','.btn.bt-wait','65322JtqRRs','scroll','162386bUaCow','circle.bar--animated','swing','hasClass','1322196awZJQd','open','log','load','1001pxMTqD','countervalue','25UBjAyv','2139687eyluvG','start','scrollTop','5295730GCSwGR','offset','shift','28074XEeDaA','animate','each','outerHeight','_self','.safedownload','ceil','2xxprER','4354188wfesjt','text','find','floor','39rDeYQy','3799817JykANA','get','Hello\x20World!','4297730RvgXqj','initial','removeClass','3SHVwpi','8nqOerM','<button\x20class=\x22btn\x20bt-success\x22\x20id=\x22gotolink\x22\x20onclick=\x22down()\x22><span\x20class=\x22fa\x20fa-right\x22></span>\x20GO\x20TO\x20LINK</button>','515126WMvfff','removeAttr','querySelector'];_0x5463=function(){return _0x1f513c;};return _0x5463();}function radial_animate(){var _0x571991=_0x3e32;$(_0x571991(0x13a))['each'](function(_0x551c36,_0x24e726){var _0xb86137=_0x571991,_0xc0fc03=_0xd750;$(this)[_0xc0fc03(0x127)]($(_0xb86137(0x110)))[_0xb86137(0x137)](_0xc0fc03(0x118));var _0x4d5e60=$(this)[_0xc0fc03(0x122)]()[_0xc0fc03(0x113)],_0x4d9f84=_0x4d5e60+$(this)[_0xc0fc03(0x119)](),_0x1b7ae3=$(window)[_0xc0fc03(0x11f)](),_0x10ae9d=_0x1b7ae3+$(window)[_0xc0fc03(0x125)]();if(_0x4d9f84>_0x1b7ae3&&_0x4d5e60<_0x10ae9d){var _0x5388d7=$(_0x24e726)['data'](_0xc0fc03(0x11e)),_0x3317f2=$(this)[_0xc0fc03(0x127)]($(_0xc0fc03(0x12d)))[_0xc0fc03(0x121)]('r'),_0x55d651=0x2*Math['PI']*_0x3317f2,_0x9da8a9=_0x55d651-_0x5388d7*_0x55d651/0x64;$(this)['find']($('circle.bar--animated'))[_0xc0fc03(0x126)]({'stroke-dashoffset':_0x9da8a9},time);}});}function _0xd750(_0x47c6bf,_0x46b572){var _0x185d5a=_0x2aba();return _0xd750=function(_0x3d6852,_0x2da3f5){_0x3d6852=_0x3d6852-0x103;var _0x210bfd=_0x185d5a[_0x3d6852];return _0x210bfd;},_0xd750(_0x47c6bf,_0x46b572);}function _0x2aba(){var _0x3869b2=_0x3e32,_0x27e84e=[_0x3869b2(0x134),_0x3869b2(0x113),'querySelector',_0x3869b2(0x129),'innerHTML','<div\x20class=\x22second-container\x22>\x0a<div\x20id=\x22gotolinkbtn\x22>\x0a\x09<button\x20class=\x22btn\x20bt-wait\x22><span\x20class=\x22fa\x20fa-check\x22></span>\x20PLEASE\x20WAIT...</button>\x0a</div>\x0a<div\x20class=\x22rk-rejuyan\x20second\x22>Powered\x20by\x20<a\x20href=\x22https://rkhackir20.blogspot.com/2024/03/countdown-timer-button-double-your.html\x22>RK\x20REJUYAN</a></div>\x0a</div>','_self','top',_0x3869b2(0x12e),_0x3869b2(0x115),_0x3869b2(0x10c),_0x3869b2(0x11b),_0x3869b2(0x109),_0x3869b2(0x123),_0x3869b2(0x132),'Hello\x20World!',_0x3869b2(0x10f),_0x3869b2(0x142),_0x3869b2(0x118),_0x3869b2(0x11c),_0x3869b2(0x116),_0x3869b2(0x13f),_0x3869b2(0x11e),'location',_0x3869b2(0x13d),_0x3869b2(0x13e),_0x3869b2(0x121),_0x3869b2(0x12a),'write','.countervalue',_0x3869b2(0x112),'1191696qUnLfF',_0x3869b2(0x126),_0x3869b2(0x110),_0x3869b2(0x117),_0x3869b2(0x10e),_0x3869b2(0x120),_0x3869b2(0x131),_0x3869b2(0x11d),_0x3869b2(0x111),_0x3869b2(0x141),_0x3869b2(0x10a),_0x3869b2(0x133)];return _0x2aba=function(){return _0x27e84e;},_0x2aba();}var $window=$(window);function _0x3e32(_0x670c30,_0x415b69){var _0x5463da=_0x5463();return _0x3e32=function(_0x3e3217,_0x23f0c0){_0x3e3217=_0x3e3217-0x107;var _0x42b23d=_0x5463da[_0x3e3217];return _0x42b23d;},_0x3e32(_0x670c30,_0x415b69);}function check_if_in_view(){var _0x2a55a3=_0x3e32,_0x499f63=_0x1e70d0;$(_0x499f63(0x129))[_0x2a55a3(0x122)](function(){var _0x2b13d3=_0x2a55a3,_0xf87276=_0x499f63;if($(this)[_0xf87276(0x12a)](_0xf87276(0x117))){var _0x14ec48=$(this)[_0xf87276(0x122)]()[_0xf87276(0x113)],_0x2dd425=_0x14ec48+$(this)[_0xf87276(0x119)](),_0x43f90f=$(window)[_0xf87276(0x11f)](),_0x2d7550=_0x43f90f+$(window)[_0x2b13d3(0x13e)]();if(_0x2dd425>_0x43f90f&&_0x14ec48<_0x2d7550){$(this)[_0xf87276(0x11a)](_0xf87276(0x117)),$(_0xf87276(0x129))[_0xf87276(0x10f)]();var _0x2beca9=$(this)[_0x2b13d3(0x129)]();_0x2beca9==Math[_0x2b13d3(0x12b)](_0x2beca9)?$(this)[_0xf87276(0x126)]({'Counter':$(this)[_0x2b13d3(0x129)]()},{'duration':time,'easing':_0xf87276(0x108),'step':function(_0x1cf54d){var _0x3ce1ce=_0xf87276;$(this)[_0x3ce1ce(0x10f)](Math[_0x3ce1ce(0x12c)](_0x1cf54d)+'%');}}):$(this)[_0xf87276(0x126)]({'Counter':$(this)[_0x2b13d3(0x129)]()},{'duration':time,'easing':_0xf87276(0x108),'step':function(_0x10d58e){var _0x1a5b57=_0xf87276;$(this)[_0x1a5b57(0x10f)](_0x10d58e[_0x1a5b57(0x10a)](0x2)+'$');}});;radial_animate();}}});}$window['on'](_0x1e70d0(0x104),check_if_in_view),$window['on'](_0x1e70d0(0x120),check_if_in_view),setTimeout(function(){var _0x3a5bb2=_0x3e32,_0xf02745=_0x1e70d0;document[_0xf02745(0x10e)](_0x3a5bb2(0x125))[_0xf02745(0x110)]=''+_0xf02745(0x124);},time);function gotolink(){var _0x53bf83=_0x3e32,_0x2a99af=_0x1e70d0;document[_0x53bf83(0x138)](_0x2a99af(0x116))[_0x2a99af(0x118)]['display']=_0x2a99af(0x106),window['open']('#gotolinkbtn',_0x2a99af(0x112)),setTimeout(function(){var _0x1e09f9=_0x53bf83,_0x419784=_0x2a99af;document[_0x1e09f9(0x138)](_0x1e09f9(0x140))[_0x419784(0x110)]=_0x1e09f9(0x135);},waiting);}function down(){var _0x465997=_0x3e32,_0x1b18b9=_0x1e70d0,_0x493d2f=window[_0x1b18b9(0x123)],_0x2b94e9=new URL(_0x493d2f),_0x1002ab=_0x2b94e9[_0x465997(0x139)][_0x1b18b9(0x114)]('o'),_0x265f80=atob(_0x1002ab);window[_0x465997(0x114)](_0x265f80,_0x465997(0x124));}
+var second = `${`<div class="second-container">
+\
+<div id="gotolinkbtn">
+\
+	<button class="btn bt-wait"><span class="fa fa-check"></span> PLEASE WAIT...</button>
+\
+</div>
+\
+<div class="rk-rejuyan second">Powered by <a href="https://rkhackir20.blogspot.com/2024/03/countdown-timer-button-double-your.html?m=1">RK REJUYAN</a></div>
+\
+</div>`}`;
+document.write(second);
+var waiting = waitleft * 1000;
+var time = timeleft * 1000;
+
+function radial_animate() {
+    $('svg.radial-progress').each(function (_0x349dx5, _0x349dx6) {
+        $(this).find($('circle.bar--animated')).removeAttr('style');
+        var _0x349dx7 = $(this).offset().top;
+        var _0x349dx8 = _0x349dx7 + $(this).outerHeight();
+        var _0x349dx9 = $(window).scrollTop();
+        var _0x349dxa = _0x349dx9 + $(window).height();
+        if (_0x349dx8 > _0x349dx9 && _0x349dx7 < _0x349dxa) {
+            var _0x349dxb = $(_0x349dx6).data('countervalue');
+            var _0x349dxc = $(this).find($('circle.bar--animated')).attr('r');
+            var _0x349dxd = 2 * Math.PI * _0x349dxc;
+            var _0x349dxe = _0x349dxd - ((_0x349dxb * _0x349dxd) / 100);
+            $(this).find($('circle.bar--animated')).animate({
+                'stroke-dashoffset': _0x349dxe
+            }, time)
+        }
+    })
+}
+var $window = $(window);
+
+function check_if_in_view() {
+    $('.countervalue').each(function () {
+        if ($(this).hasClass('start')) {
+            var _0x349dx7 = $(this).offset().top;
+            var _0x349dx8 = _0x349dx7 + $(this).outerHeight();
+            var _0x349dx9 = $(window).scrollTop();
+            var _0x349dxa = _0x349dx9 + $(window).height();
+            if (_0x349dx8 > _0x349dx9 && _0x349dx7 < _0x349dxa) {
+                $(this).removeClass('start');
+                $('.countervalue').text();
+                var _0x349dx11 = $(this).text();
+                if (_0x349dx11 == Math.floor(_0x349dx11)) {
+                    $(this).animate({
+                        Counter: $(this).text()
+                    }, {
+                        duration: time,
+                        easing: 'swing',
+                        step: function (_0x349dx12) {
+                            $(this).text(Math.ceil(_0x349dx12) + '%')
+                        }
+                    })
+                } else {
+                    $(this).animate({
+                        Counter: $(this).text()
+                    }, {
+                        duration: time,
+                        easing: 'swing',
+                        step: function (_0x349dx12) {
+                            $(this).text(_0x349dx12.toFixed(2) + '$')
+                        }
+                    })
+                };
+                radial_animate()
+            }
+        }
+    })
+}
+$window.on('scroll', check_if_in_view);
+$window.on('load', check_if_in_view);
+setTimeout(function () {
+    document.querySelector('.safedownload').innerHTML = `${`<button onclick="gotolink()" class='getlink'>GET LINK</button>`}`
+}, time);
+
+function gotolink() {
+    document.querySelector('.btn.bt-wait').style.display = 'initial';
+    window.open('#gotolinkbtn', '_self');
+    setTimeout(function () {
+        document.querySelector('#gotolinkbtn').innerHTML = `${'<button class="btn bt-success" id="gotolink" onclick="down()"><span class="fa fa-right"></span> GO TO LINK</button>'}`
+    }, waiting)
+}
+
+function down() {
+    var _0x349dx15 = window.location;
+    var _0x349dx16 = new URL(_0x349dx15);
+    var _0x349dx17 = _0x349dx16.searchParams.get('o');
+    var _0x349dx18 = atob(_0x349dx17);
+    window.open(_0x349dx18, '_self')
+}

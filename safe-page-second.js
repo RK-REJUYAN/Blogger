@@ -1,4 +1,4 @@
-var var second = `${`<div class="second-container">
+var second = `${`<div class="second-container">
 \
 <div id="gotolinkbtn">
 \

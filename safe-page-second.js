@@ -1,6 +1,4 @@
-var second = `${`<div class="second-container">
-\
-<div id="gvar second = `${`<div class="second-container">
+var var second = `${`<div class="second-container">
 \
 <div id="gotolinkbtn">
 \
@@ -92,4 +90,4 @@ function down() {
     var _0x349dx17 = _0x349dx16.searchParams.get('o');
     var _0x349dx18 = atob(_0x349dx17);
     window.open(_0x349dx18, '_self')
-}￼Enter
+}
